@@ -12,7 +12,7 @@
 <br />
   
 
-Our previous work "Frequency-Domain Enhanced MRI Fusion with Multi-Head Attention for IDH Status Prediction" has been accept by TERNATIONAL CONFERENCE ON METAVERSE AND CURRENT TRENDS IN COMPUTING (ICMCTC-2025) 
+Our previous work "Frequency-Domain Enhanced MRI Fusion with Multi-Head Attention for IDH Status Prediction" has been accepted by TERNATIONAL CONFERENCE ON METAVERSE AND CURRENT TRENDS IN COMPUTING (ICMCTC-2025) 
 https://tmrn.org/icmctc/
     </p>
     <br />
